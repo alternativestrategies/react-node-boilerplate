@@ -2,7 +2,6 @@
 
 I have made so many React Apps with Node Servers at this point, I decided to make a reusable template.
 
-----
 ## Installation
 
 Install dependencies
